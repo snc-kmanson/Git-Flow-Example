@@ -1,2 +1,2 @@
 Hallo Welt
-Dies ist ein toller Zweiter Commit für das Feature 3
+Dies ist ein toller zweiter Commit für das Feature 3
